@@ -1,0 +1,542 @@
+[
+  {
+    "name": "Destroyer",
+    "brand": "Innova",
+    "type": "Distance Driver",
+    "speed": 12,
+    "glide": 5,
+    "turn": -1,
+    "fade": 3
+  },
+  {
+    "name": "Wraith",
+    "brand": "Innova",
+    "type": "Distance Driver",
+    "speed": 11,
+    "glide": 5,
+    "turn": -1,
+    "fade": 3
+  },
+  {
+    "name": "Valkyrie",
+    "brand": "Innova",
+    "type": "Distance Driver",
+    "speed": 9,
+    "glide": 4,
+    "turn": -2,
+    "fade": 2
+  },
+  {
+    "name": "Firebird",
+    "brand": "Innova",
+    "type": "Fairway Driver",
+    "speed": 9,
+    "glide": 3,
+    "turn": 0,
+    "fade": 4
+  },
+  {
+    "name": "TeeBird",
+    "brand": "Innova",
+    "type": "Fairway Driver",
+    "speed": 7,
+    "glide": 5,
+    "turn": 0,
+    "fade": 2
+  },
+  {
+    "name": "Leopard",
+    "brand": "Innova",
+    "type": "Fairway Driver",
+    "speed": 6,
+    "glide": 5,
+    "turn": -2,
+    "fade": 1
+  },
+  {
+    "name": "Roc3",
+    "brand": "Innova",
+    "type": "Midrange",
+    "speed": 5,
+    "glide": 4,
+    "turn": 0,
+    "fade": 3
+  },
+  {
+    "name": "Mako3",
+    "brand": "Innova",
+    "type": "Midrange",
+    "speed": 5,
+    "glide": 5,
+    "turn": 0,
+    "fade": 0
+  },
+  {
+    "name": "Aviar",
+    "brand": "Innova",
+    "type": "Putter",
+    "speed": 2,
+    "glide": 3,
+    "turn": 0,
+    "fade": 1
+  },
+  {
+    "name": "Zeus",
+    "brand": "Discraft",
+    "type": "Distance Driver",
+    "speed": 12,
+    "glide": 5,
+    "turn": -1,
+    "fade": 3
+  },
+  {
+    "name": "Force",
+    "brand": "Discraft",
+    "type": "Distance Driver",
+    "speed": 12,
+    "glide": 5,
+    "turn": 0,
+    "fade": 3
+  },
+  {
+    "name": "Buzzz",
+    "brand": "Discraft",
+    "type": "Midrange",
+    "speed": 5,
+    "glide": 4,
+    "turn": -1,
+    "fade": 1
+  },
+  {
+    "name": "Zone",
+    "brand": "Discraft",
+    "type": "Approach",
+    "speed": 4,
+    "glide": 3,
+    "turn": 0,
+    "fade": 3
+  },
+  {
+    "name": "Luna",
+    "brand": "Discraft",
+    "type": "Putter",
+    "speed": 3,
+    "glide": 3,
+    "turn": 0,
+    "fade": 3
+  },
+  {
+    "name": "Enigma",
+    "brand": "Discmania",
+    "type": "Distance Driver",
+    "speed": 12,
+    "glide": 5,
+    "turn": -1,
+    "fade": 2
+  },
+  {
+    "name": "DD3",
+    "brand": "Discmania",
+    "type": "Distance Driver",
+    "speed": 12,
+    "glide": 5,
+    "turn": -1,
+    "fade": 3
+  },
+  {
+    "name": "FD",
+    "brand": "Discmania",
+    "type": "Fairway Driver",
+    "speed": 7,
+    "glide": 6,
+    "turn": -1,
+    "fade": 1
+  },
+  {
+    "name": "MD3",
+    "brand": "Discmania",
+    "type": "Midrange",
+    "speed": 5,
+    "glide": 5,
+    "turn": 0,
+    "fade": 2
+  },
+  {
+    "name": "P2",
+    "brand": "Discmania",
+    "type": "Putter",
+    "speed": 2,
+    "glide": 3,
+    "turn": 0,
+    "fade": 1
+  },
+  {
+    "name": "Grace",
+    "brand": "Latitude 64",
+    "type": "Distance Driver",
+    "speed": 11,
+    "glide": 6,
+    "turn": -1,
+    "fade": 2
+  },
+  {
+    "name": "River",
+    "brand": "Latitude 64",
+    "type": "Fairway Driver",
+    "speed": 7,
+    "glide": 7,
+    "turn": -1,
+    "fade": 1
+  },
+  {
+    "name": "Compass",
+    "brand": "Latitude 64",
+    "type": "Midrange",
+    "speed": 5,
+    "glide": 5,
+    "turn": 0,
+    "fade": 1
+  },
+  {
+    "name": "Pure",
+    "brand": "Latitude 64",
+    "type": "Putter",
+    "speed": 3,
+    "glide": 3,
+    "turn": -1,
+    "fade": 1
+  },
+  {
+    "name": "Photon",
+    "brand": "MVP",
+    "type": "Distance Driver",
+    "speed": 11,
+    "glide": 5,
+    "turn": -1,
+    "fade": 2.5
+  },
+  {
+    "name": "Wave",
+    "brand": "MVP",
+    "type": "Distance Driver",
+    "speed": 11,
+    "glide": 5,
+    "turn": -2,
+    "fade": 2
+  },
+  {
+    "name": "Reactor",
+    "brand": "MVP",
+    "type": "Midrange",
+    "speed": 5,
+    "glide": 5,
+    "turn": 0,
+    "fade": 1.5
+  },
+  {
+    "name": "Envy",
+    "brand": "MVP",
+    "type": "Putter",
+    "speed": 3,
+    "glide": 3,
+    "turn": 0,
+    "fade": 2
+  },
+  {
+    "name": "D1",
+    "brand": "Prodigy Disc",
+    "type": "Distance Driver",
+    "speed": 12,
+    "glide": 5,
+    "turn": 0,
+    "fade": 4
+  },
+  {
+    "name": "D2",
+    "brand": "Prodigy Disc",
+    "type": "Distance Driver",
+    "speed": 12,
+    "glide": 5,
+    "turn": 0,
+    "fade": 3
+  },
+  {
+    "name": "D3",
+    "brand": "Prodigy Disc",
+    "type": "Distance Driver",
+    "speed": 12,
+    "glide": 5,
+    "turn": -1,
+    "fade": 3
+  },
+  {
+    "name": "D4",
+    "brand": "Prodigy Disc",
+    "type": "Distance Driver",
+    "speed": 12,
+    "glide": 5,
+    "turn": -2,
+    "fade": 2
+  },
+  {
+    "name": "F1",
+    "brand": "Prodigy Disc",
+    "type": "Fairway Driver",
+    "speed": 8,
+    "glide": 4,
+    "turn": -1,
+    "fade": 3
+  },
+  {
+    "name": "F2",
+    "brand": "Prodigy Disc",
+    "type": "Fairway Driver",
+    "speed": 8,
+    "glide": 4,
+    "turn": -1,
+    "fade": 2
+  },
+  {
+    "name": "F3",
+    "brand": "Prodigy Disc",
+    "type": "Fairway Driver",
+    "speed": 8,
+    "glide": 5,
+    "turn": -2,
+    "fade": 2
+  },
+  {
+    "name": "M1",
+    "brand": "Prodigy Disc",
+    "type": "Midrange",
+    "speed": 5,
+    "glide": 4,
+    "turn": 0,
+    "fade": 3
+  },
+  {
+    "name": "M2",
+    "brand": "Prodigy Disc",
+    "type": "Midrange",
+    "speed": 5,
+    "glide": 4,
+    "turn": 0,
+    "fade": 2
+  },
+  {
+    "name": "M3",
+    "brand": "Prodigy Disc",
+    "type": "Midrange",
+    "speed": 5,
+    "glide": 4,
+    "turn": 0,
+    "fade": 1
+  },
+  {
+    "name": "PA-1",
+    "brand": "Prodigy Disc",
+    "type": "Putter",
+    "speed": 3,
+    "glide": 3,
+    "turn": 0,
+    "fade": 2.5
+  },
+  {
+    "name": "PA-2",
+    "brand": "Prodigy Disc",
+    "type": "Putter",
+    "speed": 3,
+    "glide": 3,
+    "turn": 0,
+    "fade": 2
+  },
+  {
+    "name": "PA-3",
+    "brand": "Prodigy Disc",
+    "type": "Putter",
+    "speed": 3,
+    "glide": 3,
+    "turn": 0,
+    "fade": 1
+  },
+  {
+    "name": "Raptor",
+    "brand": "Discraft",
+    "type": "Fairway Driver",
+    "speed": 9,
+    "glide": 4,
+    "turn": 0,
+    "fade": 3
+  },
+  {
+    "name": "Undertaker",
+    "brand": "Discraft",
+    "type": "Fairway Driver",
+    "speed": 9,
+    "glide": 5,
+    "turn": -1,
+    "fade": 2
+  },
+  {
+    "name": "Stalker",
+    "brand": "Discraft",
+    "type": "Fairway Driver",
+    "speed": 7,
+    "glide": 5,
+    "turn": -1,
+    "fade": 2
+  },
+  {
+    "name": "Malta",
+    "brand": "Discraft",
+    "type": "Midrange",
+    "speed": 5,
+    "glide": 4,
+    "turn": 0,
+    "fade": 3
+  },
+  {
+    "name": "Meteor",
+    "brand": "Discraft",
+    "type": "Midrange",
+    "speed": 5,
+    "glide": 5,
+    "turn": -3,
+    "fade": 1
+  },
+  {
+    "name": "Roach",
+    "brand": "Discraft",
+    "type": "Putter",
+    "speed": 2,
+    "glide": 4,
+    "turn": 0,
+    "fade": 1
+  },
+  {
+    "name": "PD",
+    "brand": "Discmania",
+    "type": "Fairway Driver",
+    "speed": 10,
+    "glide": 4,
+    "turn": 0,
+    "fade": 3
+  },
+  {
+    "name": "CD2",
+    "brand": "Discmania",
+    "type": "Fairway Driver",
+    "speed": 9,
+    "glide": 5,
+    "turn": -1,
+    "fade": 2
+  },
+  {
+    "name": "Method",
+    "brand": "Discmania",
+    "type": "Midrange",
+    "speed": 5,
+    "glide": 4,
+    "turn": 0,
+    "fade": 3
+  },
+  {
+    "name": "Origin",
+    "brand": "Discmania",
+    "type": "Midrange",
+    "speed": 5,
+    "glide": 5,
+    "turn": -1,
+    "fade": 1
+  },
+  {
+    "name": "Link",
+    "brand": "Discmania",
+    "type": "Putter",
+    "speed": 2,
+    "glide": 3,
+    "turn": 0,
+    "fade": 1
+  },
+  {
+    "name": "Ballista Pro",
+    "brand": "Latitude 64",
+    "type": "Distance Driver",
+    "speed": 14,
+    "glide": 4,
+    "turn": 0,
+    "fade": 3
+  },
+  {
+    "name": "Saint",
+    "brand": "Latitude 64",
+    "type": "Fairway Driver",
+    "speed": 9,
+    "glide": 7,
+    "turn": -1,
+    "fade": 2
+  },
+  {
+    "name": "Explorer",
+    "brand": "Latitude 64",
+    "type": "Fairway Driver",
+    "speed": 7,
+    "glide": 5,
+    "turn": 0,
+    "fade": 2
+  },
+  {
+    "name": "Fuse",
+    "brand": "Latitude 64",
+    "type": "Midrange",
+    "speed": 5,
+    "glide": 6,
+    "turn": -1,
+    "fade": 0
+  },
+  {
+    "name": "Keystone",
+    "brand": "Latitude 64",
+    "type": "Putter",
+    "speed": 2,
+    "glide": 5,
+    "turn": -1,
+    "fade": 1
+  },
+  {
+    "name": "Octane",
+    "brand": "MVP",
+    "type": "Distance Driver",
+    "speed": 13,
+    "glide": 5,
+    "turn": -1,
+    "fade": 2
+  },
+  {
+    "name": "Volt",
+    "brand": "MVP",
+    "type": "Fairway Driver",
+    "speed": 8,
+    "glide": 5,
+    "turn": -0.5,
+    "fade": 2
+  },
+  {
+    "name": "Matrix",
+    "brand": "MVP",
+    "type": "Midrange",
+    "speed": 5,
+    "glide": 4,
+    "turn": 0,
+    "fade": 2
+  },
+  {
+    "name": "Atom",
+    "brand": "MVP",
+    "type": "Putter",
+    "speed": 3,
+    "glide": 3,
+    "turn": 0,
+    "fade": 1
+  }
+]

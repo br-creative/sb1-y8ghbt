@@ -1,0 +1,4 @@
+/*
+  Access-Control-Allow-Origin: https://prodigy-disc-store.myshopify.com
+  Access-Control-Allow-Methods: GET
+  Access-Control-Allow-Headers: *
